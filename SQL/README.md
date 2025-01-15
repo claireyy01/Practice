@@ -1,3 +1,3 @@
-# SQL 연습
+# SQL 코텐 문제 연습
 
-SQL의 기초 코테 문제를 풀이합니다.
+[프로젝트 바로가기](https://github.com/users/claireyy01/projects/3)
